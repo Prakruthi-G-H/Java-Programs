@@ -8,7 +8,7 @@ public class Alphabets {
 		{
 		System.out.print(ch+" ");
 		}
-	  System.out.println();
+	       System.out.println();
 	 
 	  for( ch = 'A' ; ch <= 'Z' ; ch++ )
 	{
