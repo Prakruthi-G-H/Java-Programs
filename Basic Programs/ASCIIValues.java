@@ -10,7 +10,7 @@ public class ASCIIValues {
 	      char c=s.next().charAt(0);
 	      int a=c;
 	      System.out.println("ASCII Values of "+ c + "is :"+a);
-     s.close();
+            s.close();
 	}
 
 }
