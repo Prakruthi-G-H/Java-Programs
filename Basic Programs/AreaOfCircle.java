@@ -7,7 +7,7 @@ public class AreaOfCircle {
 	public static void main(String[] args) {
 		int radius;
 		float area;
-		float PI=3.14f;
+		final float PI=3.14f;
 		Scanner s = new Scanner(System.in);
 		System.out.println("Enter a Radius of the CIrcle");
 		radius=s.nextInt();
