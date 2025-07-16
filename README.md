@@ -77,11 +77,4 @@ Some of the important programs included:
 
 Made with ❤️ by [Prakruthi G H](https://github.com/Prakruthi-G-H)
 
----
-
-## 🌟 Feedback & Contributions
-
-If you find this helpful, do give it a ⭐  
-Feel free to fork and contribute by adding more Java programs!
-
 
